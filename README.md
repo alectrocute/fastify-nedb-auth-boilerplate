@@ -42,7 +42,7 @@ In the file `config.js` –
 Run –
 
 ```bash
-node index.js
+npm run serve
 ```
 
 
